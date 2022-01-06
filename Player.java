@@ -1,10 +1,3 @@
-/*
-Michael Sloan
-1180-02 / 1180L-06
-Wallace Neikirk / Luke Holt
-November 20, 2021
-This is the object class for the DungeonEscape game with various methods allowing for modifications to the player, monsters, and gold.
-*/
 import java.util.ArrayList;
 
 public class Player {
